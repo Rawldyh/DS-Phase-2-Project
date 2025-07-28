@@ -1,11 +1,11 @@
-# 🎬 Box Office Movie Studio Project
+#  Box Office Movie Studio Project
 
-## 📌 Overview
+## Overview
 This project explores what types of films perform best at the box office to help guide a new movie studio's content strategy. We use real-world data from Box Office Mojo, IMDb, and TMDB to uncover trends in revenue, genre, quality, and popularity.
 
 ---
 
-## 💼 Business Understanding
+##  Business Understanding
 
 ### Stakeholder
 The executive team of a new film production studio looking to enter the market with data-informed decisions.
@@ -17,7 +17,7 @@ The executive team of a new film production studio looking to enter the market w
 
 ---
 
-## 🧠 Data Understanding & Analysis
+##  Data Understanding & Analysis
 
 ### Sources
 - **Box Office Mojo:** Revenue data
@@ -28,21 +28,21 @@ All datasets were merged using `title` and `release_year` to create a unified mo
 
 ### Key Visualizations
 
-#### 🎥 1. Average Revenue by Genre
+####  1. Average Revenue by Genre
 Genres like Action, Adventure, and Animation bring in the highest average revenue.
 ![Genre Revenue](images/genre_revenue.png)
 
-#### 🌟 2. Revenue vs IMDb Rating
+####  2. Revenue vs IMDb Rating
 Higher IMDb ratings are associated with higher revenue.
 ![Revenue vs IMDb](images/imdb_rating_vs_revenue.png)
 
-#### 🔥 3. Revenue vs TMDB Popularity
+####  3. Revenue vs TMDB Popularity
 Movies with higher popularity scores on TMDB tend to make more money.
 ![Popularity vs Revenue](images/tmdb_popularity_vs_revenue.png)
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 - **Go big on Action, Adventure, and Animation**: These genres consistently lead in revenue.
 - **Invest in quality**: Higher ratings yield better financial performance.
@@ -50,7 +50,7 @@ Movies with higher popularity scores on TMDB tend to make more money.
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Add production budget data to assess ROI
 - Analyze seasonal release timing
@@ -59,7 +59,7 @@ Movies with higher popularity scores on TMDB tend to make more money.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                      # Raw and processed data files
@@ -72,8 +72,7 @@ Movies with higher popularity scores on TMDB tend to make more money.
 
 ---
 
-## 🙋‍♂️ Contact
+## Contact
 
-Created by: *Your Name*  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+Created by: *Rolddy SURPRIS*  
+Email: rolddysurpris@gmail.com  
